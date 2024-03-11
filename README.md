@@ -1,2 +1,2 @@
 # my-projects
-projects that i done
+projects of data science
